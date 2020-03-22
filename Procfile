@@ -1,1 +1,1 @@
-web: gunicorn iProCarlo_list.wsgi
+web: gunicorn carlo_list.wsgi
